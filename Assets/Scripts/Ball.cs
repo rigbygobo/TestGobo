@@ -5,7 +5,7 @@ public class Ball : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-		Debug.Log ("Ball start");
+		Debug.Log ("Ball start 1");
 	}
 	
 	// Update is called once per frame
